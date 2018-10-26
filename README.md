@@ -4,8 +4,6 @@ I created this project with the main purpose of:
 * learning how to use Git and GitHub effectively
 * practicing code refactoring and developing a project
 
-For me, the project is a preparation stage before contribuiting to some open source projects.
-
 # About The Project
 The DrzemlikGame project is work-in-progress - while developing it, I will keep updating "To Be Done: Bugs and Issues" list below, hopefully with the words "**fixed** or "**implemented**".
 
