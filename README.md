@@ -25,10 +25,10 @@ Working on other browsers has not been checked yet.
 
 # To Be Done Lists: Bugs And Issues
 
-## Game Mechanics
+## Game Mechanics Bugs and Issues
 1. the clock does not react/reset on a ball falling to the ground = no scoring
 
-2. clock should be larger and located closer to the canvas
+2. clock should be larger and located closer to the canvas - **fixed**
 
 3. no highscores
 
@@ -41,7 +41,7 @@ Working on other browsers has not been checked yet.
 7. balls collide with one another only horizontally, vertical collisions are to be added
 
 
-## Code Quality
+## Code Quality Issues
 * CQ1 no classes/constructors used in order to make the code more efficient
 * CQ2 more logically named functions needed
 
